@@ -1,6 +1,23 @@
-#header {
-    background-color: darkslategray;
+body {
+    background-color: whitesmoke;
+    color: black;
 }
 span {
     margin-right: 15px;
+    color: black;
+}
+#header {
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-weight: 900;
+    display: inline-flex;
+    border-bottom: 2px solid black;
+}
+.portrait {
+    position: relative;
+    left: 40px;
+}
+#portrait1 {
+    left: 20px;
+    bottom: 15px;
 }
